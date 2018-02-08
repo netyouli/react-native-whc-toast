@@ -1,0 +1,38 @@
+{
+  "name": "react-native-whc-toast",
+  "version": "1.0.0",
+  "description": "A react native module to show toast alert, it works on iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netyouli/react-native-whc-toast.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-toast",
+    "react-native-whc-toast",
+    "toast",
+    "toast-ios",
+    "toast-android",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": "netyouli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netyouli/react-native-whc-toast/issues"
+  },
+  "peerDependencies": {
+    "react-native": "^0.45.0",
+    "prop-types": "^15.5.7"
+  },
+  "homepage": "https://github.com/netyouli/react-native-whc-toast#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
