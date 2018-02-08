@@ -4,8 +4,8 @@ A react native module to show toast alert, it works on iOS and Android.
 [ ![release](https://img.shields.io/github/release/netyouli/react-native-whc-toast.svg?maxAge=2592000?style=flat-square)](https://github.com/netyouli/react-native-whc-toast/releases)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/netyouli/react-native-whc-toast/pulls)
 [ ![NPM version](http://img.shields.io/npm/v/react-native-whc-toast.svg?style=flat)](https://www.npmjs.com/package/react-native-whc-toast)
-[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/react-native-whc-loading/master/LICENSE)
-[ ![语言 中文](https://img.shields.io/badge/语言-中文-yellow.svg)](https://github.com/netyouli/react-native-whc-loading/blob/master/README.zh.md)
+[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/react-native-whc-toast/master/LICENSE)
+[ ![语言 中文](https://img.shields.io/badge/语言-中文-yellow.svg)](https://github.com/netyouli/react-native-whc-toast/blob/master/README.zh.md)
 
 
 
