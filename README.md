@@ -64,7 +64,7 @@ Then you can use it like this:
  /// alert toast bottom
  this.refs.toast.showTop('hello toast');
  /// or
- this.refs.toast.show('hello toast', Toast.Duration.long, Toast.Position.bottom);
+ this.refs.toast.show('hello toast', Toast.Duration.long, Toast.Position.top);
 ```
 
 >3.display center：

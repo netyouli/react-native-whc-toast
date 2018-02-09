@@ -73,7 +73,7 @@
  /// 显示toast顶部
  this.refs.toast.showTop('hello toast');
  /// or
- this.refs.toast.show('hello toast', Toast.Duration.long, Toast.Position.bottom);
+ this.refs.toast.show('hello toast', Toast.Duration.long, Toast.Position.top);
 ```
 
 >3.显示toast在中间：
